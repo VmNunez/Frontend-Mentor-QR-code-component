@@ -1,0 +1,31 @@
+:root{
+    /* Colors */
+
+    --white:hsl(0, 0%, 100%);
+    --light-gray:hsl(212, 45%, 89%);
+    --grayish-blue:hsl(220, 15%, 55%);
+    --dark-blue:hsl(218, 44%, 22%);
+
+    /* Font */
+    --main-font:'Outfit', sans-serif;
+}
+
+
+/* Globals */
+html{
+    box-sizing: border-box;
+    font-size: 62.5%;
+
+}
+
+*,
+*::after,
+*::before{
+    box-sizing: inherit;
+}
+
+body{
+    font-family: var(--main-font);
+    font-size: 1.6rem;
+    line-height: 1.5;
+}
