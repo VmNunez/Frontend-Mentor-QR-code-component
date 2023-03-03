@@ -8,6 +8,10 @@
 
     /* Font */
     --main-font:'Outfit', sans-serif;
+
+    /*  widths */
+    --desktop:1440px;
+    --mobile:375px;
 }
 
 
@@ -25,7 +29,58 @@ html{
 }
 
 body{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color:var(--light-gray) ;
     font-family: var(--main-font);
     font-size: 1.6rem;
     line-height: 1.5;
+    margin:0;
+    height: 100vh;
+}
+
+.container{
+    max-width: 33rem;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.img{
+    max-width: 100%;
+    display: block;
+    height: auto;
+}
+
+.component{
+    background-color: var(--white);
+    border-radius: 2rem;
+}
+.component__flex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.component__image{
+   padding: 1.5rem ;
+   
+}
+.component__image img{
+    width:100%;
+    border-radius: 1rem;
+    
+}
+.component__text{
+    padding: 0 2rem;
+    text-align: center;
+}
+.component__heading{
+    margin:0;
+    font-size:2.4rem;
+    color:var(--dark-blue);
+}
+.component__paragraph{
+    color:var(--grayish-blue);
+    margin-bottom: 4rem;
+    font-size: 1.5rem;
 }
