@@ -25,7 +25,7 @@ Desktop screenshot
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-component-using-flexbox-and-custome-properties-Sk3rLDQwrD](https://www.frontendmentor.io/solutions/qr-component-using-flexbox-and-custome-properties-Sk3rLDQwrD)
 - Live Site URL: [https://cheerful-toffee-129d76.netlify.app/](https://cheerful-toffee-129d76.netlify.app/)
 
 ## My process
