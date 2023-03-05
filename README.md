@@ -26,7 +26,7 @@ Desktop screenshot
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://cheerful-toffee-129d76.netlify.app/](https://cheerful-toffee-129d76.netlify.app/)
 
 ## My process
 
